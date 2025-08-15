@@ -33,6 +33,6 @@ This project is part of **Task 8** for the Elevate Labs Web Development Internsh
 
 ---
 
-
+https://github.com/Deepak172003/Tech-Sphere-Blog-Layout/blob/16dacd8d520e31288a9df69cbf9f75731d0136a4/Screenshot%20(117).png
 
 
